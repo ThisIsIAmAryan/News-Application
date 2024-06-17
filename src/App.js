@@ -19,7 +19,7 @@ function App() {
 
   return (
     <>
-      <Navbar bg="dark" expand="lg" className="mb-4">
+      <Navbar expand="lg" className="mb-4">
         <Container>
           <Navbar.Brand href="/" className="fc-white fw-bold fs-4">News App</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbar-nav" />
